@@ -1,1 +1,1 @@
-Building cools things AI solutions using PyTorch
+Building cool AI solutions using PyTorch
